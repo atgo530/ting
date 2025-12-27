@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json";
+const API_BASE_URL = "https://music.gdstudio.org";
 const KUWO_HOST_PATTERN = /(^|\.)kuwo\.cn$/i;
 const SAFE_RESPONSE_HEADERS = ["content-type", "cache-control", "accept-ranges", "content-length", "content-range", "etag", "last-modified", "expires"];
 
