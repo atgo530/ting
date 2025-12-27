@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://ncm.zhenxin.me";
+const API_BASE_URL = "https://v2.alapi.cn/api/music/search";
 const KUWO_HOST_PATTERN = /(^|\.)kuwo\.cn$/i;
 const SAFE_RESPONSE_HEADERS = ["content-type", "cache-control", "accept-ranges", "content-length", "content-range", "etag", "last-modified", "expires"];
 
